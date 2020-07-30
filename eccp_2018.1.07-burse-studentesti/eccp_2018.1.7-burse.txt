@@ -1,0 +1,44 @@
+6 3 2
+George Popescu
+9 9 9
+Dan Pop
+10 4 10
+Ionela Cristescu
+6 8 8
+Ilie David
+10 10 10
+Georgiana Fus
+9 10 10
+Cristian Oprescu
+8 9 9
+----------------------
+2
+Ilie David 10.00
+
+
+
+
+
+
+
+
+
+
+
+
+6 3 5
+George Popescu
+9 9 9
+Dan Pop
+10 4 10
+Ionela Cristescu
+6 8 8
+Georgiana Fus
+9 10 10
+Cristian Oprescu
+8 9 9
+Ilie David
+10 10 10
+------------------------
+3
+Ilie David 10.00
