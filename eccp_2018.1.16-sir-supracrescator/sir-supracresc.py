@@ -33,7 +33,7 @@ for i in range(len(indecsi2)):
     print(indecsi2[i] + 1)  # +1 pt ca la ei numerotarea incepe de la 1
 
 
-# 13 tests run/12 tests passed -- au pus un test gresit hehehehe bvbvbv
+# 13 tests run/12 tests passed ???
 # --- Program output ---
 # 1
 # 10
